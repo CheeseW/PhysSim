@@ -1,0 +1,13 @@
+*.[oa]
+*~
+TAGS
+build/
+*->*
+*_nocona
+*_debug
+
+/SConstruct
+# !Scripts/Archives/scons/SConscript
+
+/SConstruct.options
+# !Scripts/Archives/scons/SConscript.options
